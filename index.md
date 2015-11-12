@@ -112,16 +112,34 @@ Lunex Telecom, Lilburn, GA
     Developed web sites for a growing telecommunications company.
 
 Text Tech and Wordnik
+November 2009
+Consultant, Computational Lexicography
+Transfered and modified Text Tech's dictionary pronunciations for use by Wordnik.com.
 
 ASE Edge, Inc., Pittsburgh, PA
+January 2008 –  May 2009
+Consultant, Computational Linguistics
+Maintained a .NET library for doing corpus analysis, statistics, and electronic document discovery.
 
-PSE Edge, Inc., Pittsburgh, PA
+ASE Edge, Inc., Pittsburgh, PA
+May 2004 – January 2008
+Computational Linguist
+Maintained a .NET library for doing corpus analysis, statistics, and electronic document discovery
 
 Oxford University Press, Oxford, England
+1999, 2003, 2005
+Consultant, Lexicography
+Provided American pronunciations for the Oxford English Dictionary and wrote programs to facilitate entering those pronunciations.
 
 Schwa
+Fall 2003 – May 2004
+Programmer, Researcher
+Designed and implements a system for working with dictionary pronunciations.
 
 Linguistic Atlas Projects, University of Georgia, Athens, GA
+Spring 1998 – May 2004
+Systems Administrator, Database Administrator, Web Designer
+Developed and maintained the computer servers for the Linguistic Atlas Projects.
 
 ---
 
@@ -137,6 +155,14 @@ Linguistic Atlas Projects, University of Georgia, Athens, GA
 
 #### Dissertation
 
+Schwa: A Dictionary Pronunciation Database System
+Director: William A. Kretzschmar, Jr.
+Schwa implements a computer system for editing and managing dictionary pronunciations. This system emphasizes interoperability by using standard technologies such as XML and Unicode, and it includes an in-depth examination of the issues involved in producing lexicographical pronunciations, both from an historical, a technical, and a theoretical perspective. It also included complete documentation for the software described.
+
 #### University of Georgia, Athens, GA
 
+1995–2004, Ph.D., English
+
 #### Southern Adventist University, Collegedale, TN
+
+1988–1993, B.A., English; minor, sociology
