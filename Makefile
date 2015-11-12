@@ -4,10 +4,16 @@ INPUT=index.md
 index.html:
 
 %.html: %.md
+	pandoc --from=markdown --to=html5 --output=$@ --smart --standalone \
+		--section-divs $<
 
 %.docx: %.md
+	pandoc --from=markdown --to=docx --output=$@ --smart --standalone \
+		--section-divs $<
 
 %.pdf: %.md
+	pandoc --from=markdown --to=latex --output=$@ --smart --standalone \
+		--section-divs $<
 
 publish: index.html resume.pdf
 	cp index.html gh-pages/
