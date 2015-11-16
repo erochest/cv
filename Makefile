@@ -15,6 +15,9 @@ index.html:
 	pandoc --from=markdown --to=latex --output=$@ --smart --standalone \
 		--section-divs $<
 
+resume.pdf: index.pdf
+	mv $< $@
+
 publish: index.html resume.pdf
 	cp index.html gh-pages/
 	cp resume.pdf gh-pages/
