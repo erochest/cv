@@ -96,9 +96,9 @@ machines, neural networks, and a variety of statistical tests.
 ### Professional Experience
 
 Scholars' Lab, Alderman Library, University of Virginia
-: **TODO**
 : *Senior R&D Developer*
     **March 2011 – current**
+    **TODO**
 
 SteepRock, Inc, Washington Depot, CT
 : *Software Engineer*
@@ -112,42 +112,117 @@ Lunex Telecom, Lilburn, GA
     Developed web sites for a growing telecommunications company.
 
 Text Tech and Wordnik
-November 2009
-Consultant, Computational Lexicography
-Transfered and modified Text Tech's dictionary pronunciations for use by Wordnik.com.
+: Consultant, Computational Lexicography
+    **November 2009**
+    Transfered and modified Text Tech's dictionary pronunciations for
+    use by Wordnik.com.
 
 ASE Edge, Inc., Pittsburgh, PA
-January 2008 –  May 2009
-Consultant, Computational Linguistics
-Maintained a .NET library for doing corpus analysis, statistics, and electronic document discovery.
+: Consultant, Computational Linguistics
+    **January 2008 –  May 2009**
+    Maintained a .NET library for doing corpus analysis, statistics,
+    and electronic document discovery.
 
 ASE Edge, Inc., Pittsburgh, PA
-May 2004 – January 2008
-Computational Linguist
-Maintained a .NET library for doing corpus analysis, statistics, and electronic document discovery
+: Computational Linguist
+    **May 2004 – January 2008**
+    Maintained a .NET library for doing corpus analysis, statistics,
+    and electronic document discovery
 
 Oxford University Press, Oxford, England
-1999, 2003, 2005
-Consultant, Lexicography
-Provided American pronunciations for the Oxford English Dictionary and wrote programs to facilitate entering those pronunciations.
+: Consultant, Lexicography
+    **1999, 2003, 2005**
+    Provided American pronunciations for the Oxford English Dictionary
+    and wrote programs to facilitate entering those pronunciations.
 
 Schwa
-Fall 2003 – May 2004
-Programmer, Researcher
-Designed and implements a system for working with dictionary pronunciations.
+: Programmer, Researcher
+    **Fall 2003 – May 2004**
+    Designed and implements a system for working with dictionary
+    pronunciations.
 
 Linguistic Atlas Projects, University of Georgia, Athens, GA
-Spring 1998 – May 2004
-Systems Administrator, Database Administrator, Web Designer
-Developed and maintained the computer servers for the Linguistic Atlas Projects.
+: Systems Administrator, Database Administrator, Web Designer
+    **Spring 1998 – May 2004**
+    Developed and maintained the computer servers for the Linguistic
+    Atlas Projects.
 
 ---
 
-### Publication
+### Projects
+
+---
+
+### Publication and Presentations
+
+#### Genealogy of Reading: A Small Linked Open Data Project
+
+Lindblad, Purdom, Eric Rochester, and Jeremy Boggs. "Genealogy of
+Reading: A Small Linked Open Data Project." Poster presented at DLF
+Forum 2015, Vancouver, BC, October 26--28, 2105.
+
+#### Clojure Data Analysis Cookbook
+
+Rochester, Eric. *Clojure Data Analysis Cookbook." 2nd ed. Birmingham,
+UK: Packt, 2015.
+
+#### Speaking in Code Poster
+
+Nowviskie, Bethany, Eric Rochester, Wayne Graham, Jeremy Boggs, David
+McClure, and Scott Bailey. “Speaking in Code.” Poster presented at
+Digital Humanities 2014, Lausanne, Switzerland, July
+7–12, 2014. http://dharchive.org/paper/DH2014/Poster-918.xml
 
 #### Mastering Clojure Data Analysis
 
-#### Clojure Data Analysis Cookbook
+Rochester, Eric. *Mastering Clojure Data Analysis.* Birmingham, UK:
+Packt, 2014.
+
+#### Open Sesame: Interoperability in Digital Literary Studies
+
+Brown, Susan, Travis Brown, Johanna Drucker, Eric Rochester, Geoffrey
+Rockwell, Jentery Sayers, and Susan Schreibman. “Open Sesame:
+Interoperability in Digital Literary Studies.” Conference Panel
+presented at MLA 2013, Boston, MA, January 3–6, 2013.
+
+#### Circular Development: Neatline and the User/Development Feedback Loop
+
+Boggs, Jeremy , Amy Earhart, Wayne Graham, T. Mills Kelly, David
+McClure, Shawn Moore, and Eric Rochester. “Circular Development:
+Neatline and the User/Development Feedback Loop.” Conference Panel
+presented at Digital Humanities 2013, University of Nebraska, Lincoln,
+NE, July 16–19, 2013. http://dh2013.unl.edu/abstracts/ab-253.html
+
+#### Geo-Temporal Interpretations of Archival Collections using Neatline
+
+Nowviskie, Bethany, Wayne Graham, David McClure, Jeremy Boggs, and
+Eric Rochester. “Geo-Temporal Interpretations of Archival Collections
+using Neatline.” Conference Paper presented at Digital Humanities
+2012, Hamburg, Germany, July
+16–22, 2012. http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/HamburgUP_dh2012_BoA.pdf
+
+#### The '#alt-act' Track: Digital Humanists off the Straight and Narrow Path to Tenure
+
+Nowviskie, Bethany, Julia Flanders, Tanya Clement, Doug Reside, Dot
+Porter, and Eric Rochester. Panel Discussion: “The ‘#alt-ac’ Track:
+Digital Humanists off the Straight and Narrow Path to Tenure.” Digital
+Humanities 2011, Palo Alto, CA, June 2011.
+
+#### New Tools for Analyzing Texts
+
+“New Tools for Analyzing Texts.” Language and Literature 10.2 (2001):
+187–91.
+
+#### Alfred's Pastoral Care as a Guide for Teachers
+
+“Alfred’s Pastoral Care as a Guide for Teachers.” South Atlantic
+Modern Language Association (SAMLA), Birmingham, AL, November 2000.
+
+#### Blurring the Boundaries: Chivalry, Magic, and the Squire's Tale
+
+“Blurring the Boundaries: Chivalry, Magic, and the Squire’s Tale.”
+34th International Congress on Medieval Studies, Kalamazoo, Michigan,
+May 1999.
 
 ---
 
@@ -156,8 +231,14 @@ Developed and maintained the computer servers for the Linguistic Atlas Projects.
 #### Dissertation
 
 Schwa: A Dictionary Pronunciation Database System
-Director: William A. Kretzschmar, Jr.
-Schwa implements a computer system for editing and managing dictionary pronunciations. This system emphasizes interoperability by using standard technologies such as XML and Unicode, and it includes an in-depth examination of the issues involved in producing lexicographical pronunciations, both from an historical, a technical, and a theoretical perspective. It also included complete documentation for the software described.
+: Director: William A. Kretzschmar, Jr.
+    Schwa implements a computer system for editing and managing
+    dictionary pronunciations. This system emphasizes interoperability
+    by using standard technologies such as XML and Unicode, and it
+    includes an in-depth examination of the issues involved in
+    producing lexicographical pronunciations, both from an historical,
+    a technical, and a theoretical perspective. It also included
+    complete documentation for the software described.
 
 #### University of Georgia, Athens, GA
 
