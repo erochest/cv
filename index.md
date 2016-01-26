@@ -1,9 +1,9 @@
 # Eric Rochester
 
-> [Download PDF](resume.pdf)
-> 440 Willwood Drive, Earlysville, VA 22936
-> [erochest@gmail.com](mailto:erochest@gmail.com) · [&#x40;erochest](https://twitter.com/erochest) · [GitHub](https://github.com/erochest)
-> (434) 305-5193
+* [Download PDF](resume.pdf)
+* 440 Willwood Drive, Earlysville, VA 22936
+* [erochest@gmail.com](mailto:erochest@gmail.com) · [&#x40;erochest](https://twitter.com/erochest) · [GitHub](https://github.com/erochest)
+* 434.305.5193
 
 ---
 
