@@ -98,8 +98,13 @@ machines, neural networks, and a variety of statistical tests.
 ### Professional Experience
 
 Scholars' Lab, Alderman Library, University of Virginia
+: *Manager, Digital Scholarship*
+    **December 2015 – current**
+    **TODO**
+
+Scholars' Lab, Alderman Library, University of Virginia
 : *Senior R&D Developer*
-    **March 2011 – current**
+    **March 2011 – December 2015**
     **TODO**
 
 SteepRock, Inc, Washington Depot, CT
