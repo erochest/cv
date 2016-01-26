@@ -3,6 +3,8 @@
 > [Download PDF](resume.pdf)
 > 440 Willwood Drive, Earlysville, VA 22936
 > [erochest@gmail.com](mailto:erochest@gmail.com)
+> [@erochest](https://twitter.com/erochest)
+> [GitHub](https://github.com/erochest)
 > (434) 305-5193
 
 ---
