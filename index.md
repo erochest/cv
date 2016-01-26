@@ -156,25 +156,16 @@ Linguistic Atlas Projects, University of Georgia, Athens, GA
 
 ---
 
-### Projects
+### Projects Contributed to
 
-* [c18sgml](https://github.com/erochest/c18sgml)
 * [jekyll-rdfa](https://github.com/erochest/jekyll-rdfa)
-* [cabal-new](https://github.com/erochest/cabal-new)
 * [text-regex-replace](https://github.com/erochest/text-regex-replace)
-* [chunk-corpus](https://github.com/erochest/chunk-corpus)
+* [chunk-corpus](https://github.com/scholarslab/chunk-corpus)
 * [taygeta](https://github.com/erochest/taygeta)
-* [sigil](https://github.com/erochest/sigil)
-* [intelligent-design](https://github.com/erochest/intelligent-design)
 * [wa-tor](https://github.com/erochest/wa-tor)
-* [topical](https://github.com/erochest/topical)
-* [lod](https://github.com/erochest/lod)
-* [timr](https://github.com/erochest/timr)
-* [ribot](https://github.com/erochest/ribot)
-* [bakers12](https://github.com/erochest/bakers12)
 * [omeka_national_parks](https://github.com/erochest/omeka_national_parks)
-* [zayin](https://github.com/erochest/zayin)
-* [simplegoodturing](https://github.com/erochest/simplegoodturing)
+* [Neatline](https://github.com/scholarslab/Neatline)
+* [NeatlineFeatures](https://github.com/scholarslab/NeatlineFeatures)
 
 ---
 
