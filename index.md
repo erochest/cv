@@ -9,62 +9,74 @@
 
 ### Computer/Web Programming
 
+#### Managed Small Team
+
+Set priorities for, mentored, and managed a small team of
+developers. Helped decide technology stacks. Helped with publicity and
+finding new clients. Met with clients to scope and set feature
+requirements for their projects.
+
 #### Complete Life Cycle
 
-Designed, implemented, and deployed an updated site for the Linguistic
-Atlas Projects. This included transitioning to a RDBMS (MySQL) and new
-web framework. In other situations, managed release process, including
-overseeing scheduling of DBA, development, and client-facing
-resources.
+Designed, implemented, released, and supported
+[NeatlineFeatures](https://github.com/scholarslab/NeatlineFeatures)
+Omeka plugin.  In other situations, transitioned from flat files to
+MySQL, managed release process, including overseeing scheduling of
+DBA, development, and client-facing resources.
 
 #### Code Quality
 
 Focused on improving documentation, test coverage, and code quality
-using unit tests, Js Test Driver, and Selenium.
+using unit tests, test- and behavior-driven develop, and continuous
+deployment. These included using RSpec and similar frameworks,
+Cucumber, and TravisCI.
 
-#### Distributed Text Processing
+#### Text Processing
 
-Designed and wrote a simple Map/Reduce clone in Erlang to distribute
-text processing over a small cluster of computers. Implemented a web
-application in Python and Django to track the work and view the
-results.
+Worked with faculty and graduate students to analyze small and medium
+collections of documents.  Designed and wrote a simple Map/Reduce
+clone in Erlang to distribute text processing over a small cluster of
+computers. Implemented a web application in Python and Django to track
+the work and view the results.
 
 #### Team Work
 
-Collaborated with teams using a variety of tools, including SVN,
-Mercurial, bug tracking sites, and wikis. Worked with client-facing
-and DBAs to improve specifications and develop sites.
+Collaborated with teams using a variety of tools, including SVN, git,
+issue tracking sites, and wikis. Worked with client-facing and DBAs to
+improve specifications and develop sites.
 
 #### Experience and Technologies
 
-Have 10+ years experience writing Python programs for desktop
-applications with Tkinter and wxWidgets and for web applications with
-CGI, Django, and other frameworks. Have 6 years experience writing C#
-programs for desktop applications with WinForms and for libraries to
-be used in a variety of contexts. Developed web sites with HTML, CSS,
-AJAX, ExtJS, and jQuery. Familiar with MySQL, MS-SQL, SQLite and other
-databases. Comfortable on Windows and Linux/UNIX.
+Have 15+ years experience writing Python programs for desktop
+applications and for web applications with CGI, Django, Flask, and
+other frameworks. Have 5 years experience writing web applications
+using PHP frameworks such as Zend and Omeka. Have 6 years experience
+writing C# programs for desktop applications with WinForms and for
+libraries to be used in a variety of contexts. Developed web sites
+with HTML, CSS, AJAX, and a variety of JavaScript frameworks. Familiar
+with MySQL, PostgreSQL, SQLite, MongoDB, and other
+databases. Comfortable on Windows, Mac OS X, and Linux/UNIX.
 
 #### New Languages
 
-Advancing skills in a variety of new languages, including Scala,
-Clojure, and Haskell.
+Advancing skills in a variety of new languages, including Clojure and
+Haskell.
 
 ### Technical Writing
 
 #### Communicating Complex Information in Computers and Linguistics
 
-Trained lawyers, staff, and clients on the basics of computational and
-corpus linguistics. Wrote a section of a whitepaper describing
-computer search techniques. Maintained API documentation for a number
-of software projects in Python and C#.
+Trained faculty, graduate students, and staff on the basics of
+computational and corpus linguistics, machine learning, and text
+processing and analysis.
 
 #### New Techniques
 
-Wrote and recorded a screencast to help users navigate a complex
-process on their computers.
+Wrote and recorded screencasts to help users navigate a complex
+process on their computers and to use software programs more
+effectively.
 
-### Computational/Corpus Linguisics
+### Machine Learning, Text Analysis, and Corpus Linguisics
 
 #### Information Extraction
 
@@ -74,11 +86,11 @@ electronic document discovery.
 
 #### Statistical Analysis
 
-Identified shifts in topics in a corpus of documents. Developed a
-natural-language database interface using rule-based
-grammars. Analyzed authors' stylistics. Collaborated with other
-linguists, legal staff, and subject-matter experts to develop
-customized electronic document discovery solutions.
+Identified shifts in topics in a corpus of documents. Analyzed
+authors' stylistics. Extracted information from the text, explored
+large corpora to answer research questions, and compared corpora by
+content and style.
+
 
 #### Computational Lexicography
 
@@ -87,9 +99,11 @@ practices in writing and maintaining dictionary pronunciations.
 
 #### Programming
 
-Wrote programs analyzing text and language in Python, C#, PROLOG, and
-other computer languages. Used hidden Markov models, support vector
-machines, neural networks, and a variety of statistical tests.
+Wrote programs analyzing text and language in Python, PHP, Haskell,
+and other computer languages. Used topic modeling, naïve Bayesian and
+MaxEnt classifiers, K-means and other clustering, hidden Markov
+models, support vector machines, neural networks, and a variety of
+statistical tests.
 
 ---
 
@@ -201,7 +215,7 @@ presented at MLA 2013, Boston, MA, January 3–6, 2013.
 
 #### Circular Development: Neatline and the User/Development Feedback Loop
 
-Boggs, Jeremy , Amy Earhart, Wayne Graham, T. Mills Kelly, David
+Boggs, Jeremy, Amy Earhart, Wayne Graham, T. Mills Kelly, David
 McClure, Shawn Moore, and Eric Rochester. “Circular Development:
 Neatline and the User/Development Feedback Loop.” Conference Panel
 presented at Digital Humanities 2013, University of Nebraska, Lincoln,
